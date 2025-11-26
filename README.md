@@ -5,7 +5,9 @@ This repository contains the tasks and projects completed during my Coding Samur
 Business Analytics – Coding Samurai
 
 ## 👤 Intern Details
-**Name:** Himanshu Kumar Bhagat 
+**Name:** Himanshu Kumar Bhagat
+
+
 **Year:** 2025  
 **Role:** Business Analytics Intern  
 
