@@ -8,6 +8,7 @@ Business Analytics – Coding Samurai
 **Name:** Himanshu Kumar Bhagat
 
 **Year:** 2025  
+
 **Role:** Business Analytics Intern  
 
 ---
